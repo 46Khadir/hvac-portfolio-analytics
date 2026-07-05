@@ -1,0 +1,15 @@
+<svg viewBox="0 0 520 320" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+<rect width="520" height="320" fill="#ffffff"/>
+<text x="260.0" y="28" text-anchor="middle" font-size="16" font-weight="bold" fill="#222">Average Cost per Maintenance Event</text>
+<line x1="70" y1="50" x2="70" y2="260" stroke="#333" stroke-width="1"/>
+<line x1="70" y1="260" x2="500" y2="260" stroke="#333" stroke-width="1"/>
+<rect x="110" y="77.4" width="90" height="182.6" fill="#C0392B" rx="3"/>
+<text x="155.0" y="69.4" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">982€</text>
+<text x="155.0" y="282" text-anchor="middle" font-size="12" fill="#333">Emergency</text>
+<rect x="240" y="181.5" width="90" height="78.5" fill="#E8A33D" rx="3"/>
+<text x="285.0" y="173.5" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">422€</text>
+<text x="285.0" y="282" text-anchor="middle" font-size="12" fill="#333">Corrective</text>
+<rect x="370" y="226.9" width="90" height="33.1" fill="#2E8B57" rx="3"/>
+<text x="415.0" y="218.9" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">178€</text>
+<text x="415.0" y="282" text-anchor="middle" font-size="12" fill="#333">Preventive</text>
+</svg>
