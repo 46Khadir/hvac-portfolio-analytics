@@ -1,0 +1,25 @@
+building_id,city,sector,hvac_type,sq_meters,install_year
+B100,Lisbon,Hospitality,VRF,8361,2023
+B101,Barcelona,Commercial,AHU,12296,2022
+B102,Barcelona,Hospitality,VRF,12056,2014
+B103,Madrid,Healthcare,AHU,8902,2016
+B104,Madrid,Hospitality,VRF,15507,2022
+B105,Luanda,Healthcare,Split System,10522,2014
+B106,Lisbon,Commercial,AHU,2162,2022
+B107,Barcelona,Hospitality,VRF,13957,2016
+B108,Porto,Commercial,Split System,10683,2023
+B109,Lisbon,Hospitality,Split System,11717,2016
+B110,Madrid,Commercial,VRF,10524,2018
+B111,Luanda,Commercial,VRF,10321,2020
+B112,Barcelona,Commercial,AHU,2357,2015
+B113,Barcelona,Healthcare,VRF,10418,2019
+B114,Barcelona,Hospitality,VRF,14472,2019
+B115,Barcelona,Healthcare,VRF,6027,2021
+B116,Madrid,Healthcare,AHU,11168,2023
+B117,Lisbon,Commercial,AHU,1330,2020
+B118,Luanda,Commercial,AHU,6776,2018
+B119,Madrid,Commercial,AHU,8311,2018
+B120,Madrid,Hospitality,AHU,17703,2018
+B121,Porto,Hospitality,AHU,4490,2022
+B122,Lisbon,Hospitality,VRF,5556,2017
+B123,Luanda,Healthcare,VRF,7826,2015
