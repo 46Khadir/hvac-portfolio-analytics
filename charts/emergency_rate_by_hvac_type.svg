@@ -1,0 +1,15 @@
+<svg viewBox="0 0 520 320" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+<rect width="520" height="320" fill="#ffffff"/>
+<text x="260.0" y="28" text-anchor="middle" font-size="16" font-weight="bold" fill="#222">Emergency Call-Out Rate by HVAC System Type</text>
+<line x1="70" y1="50" x2="70" y2="260" stroke="#333" stroke-width="1"/>
+<line x1="70" y1="260" x2="500" y2="260" stroke="#333" stroke-width="1"/>
+<rect x="110" y="77.4" width="90" height="182.6" fill="#C0392B" rx="3"/>
+<text x="155.0" y="69.4" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">12.7%</text>
+<text x="155.0" y="282" text-anchor="middle" font-size="12" fill="#333">Split System</text>
+<rect x="240" y="90.3" width="90" height="169.7" fill="#C0392B" rx="3"/>
+<text x="285.0" y="82.3" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">11.8%</text>
+<text x="285.0" y="282" text-anchor="middle" font-size="12" fill="#333">VRF</text>
+<rect x="370" y="109.0" width="90" height="151.0" fill="#C0392B" rx="3"/>
+<text x="415.0" y="101.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">10.5%</text>
+<text x="415.0" y="282" text-anchor="middle" font-size="12" fill="#333">AHU</text>
+</svg>
