@@ -61,8 +61,8 @@ hvac-analytics/
 
 | | |
 |---|---|
-| ![Cost by maintenance type](charts/avg_cost_by_maintenance_type.png) | ![Emergency rate by HVAC type](charts/emergency_rate_by_hvac_type.png) |
-| ![Monthly energy trend](charts/monthly_energy_trend.png) | ![Energy intensity by sector](charts/energy_intensity_by_sector.png) |
+| ![Cost by maintenance type](charts/avg_cost_by_maintenance_type.svg) | ![Emergency rate by HVAC type](charts/emergency_rate_by_hvac_type.svg) |
+| ![Monthly energy trend](charts/monthly_energy_trend.svg) | ![Energy intensity by sector](charts/energy_intensity_by_sector.svg) |
 
 ## Running it yourself
 
