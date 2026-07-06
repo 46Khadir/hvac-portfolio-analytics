@@ -1,0 +1,43 @@
+<svg viewBox="0 0 760 320" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+<rect width="760" height="320" fill="#ffffff"/>
+<text x="380.0" y="28" text-anchor="middle" font-size="16" font-weight="bold" fill="#222">Portfolio-wide Monthly Energy Consumption</text>
+<line x1="70" y1="50" x2="70" y2="240" stroke="#333" stroke-width="1"/>
+<line x1="70" y1="240" x2="740" y2="240" stroke="#333" stroke-width="1"/>
+<polyline points="70.0,99.3 99.1,195.6 128.3,204.7 157.4,201.9 186.5,204.0 215.7,101.8 244.8,95.7 273.9,106.5 303.0,205.1 332.2,197.9 361.3,211.1 390.4,104.1 419.6,100.2 448.7,206.1 477.8,207.1 507.0,203.2 536.1,205.1 565.2,100.4 594.3,102.0 623.5,101.0 652.6,207.5 681.7,207.3 710.9,196.6 740.0,90.9" fill="none" stroke="#2E5FA3" stroke-width="2.5"/>
+<circle cx="70.0" cy="99.3" r="2.5" fill="#2E5FA3"/>
+<text x="70.0" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 70.0 262)">2023-01</text>
+<circle cx="99.1" cy="195.6" r="2.5" fill="#2E5FA3"/>
+<circle cx="128.3" cy="204.7" r="2.5" fill="#2E5FA3"/>
+<text x="128.3" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 128.3 262)">2023-03</text>
+<circle cx="157.4" cy="201.9" r="2.5" fill="#2E5FA3"/>
+<circle cx="186.5" cy="204.0" r="2.5" fill="#2E5FA3"/>
+<text x="186.5" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 186.5 262)">2023-05</text>
+<circle cx="215.7" cy="101.8" r="2.5" fill="#2E5FA3"/>
+<circle cx="244.8" cy="95.7" r="2.5" fill="#2E5FA3"/>
+<text x="244.8" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 244.8 262)">2023-07</text>
+<circle cx="273.9" cy="106.5" r="2.5" fill="#2E5FA3"/>
+<circle cx="303.0" cy="205.1" r="2.5" fill="#2E5FA3"/>
+<text x="303.0" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 303.0 262)">2023-09</text>
+<circle cx="332.2" cy="197.9" r="2.5" fill="#2E5FA3"/>
+<circle cx="361.3" cy="211.1" r="2.5" fill="#2E5FA3"/>
+<text x="361.3" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 361.3 262)">2023-11</text>
+<circle cx="390.4" cy="104.1" r="2.5" fill="#2E5FA3"/>
+<circle cx="419.6" cy="100.2" r="2.5" fill="#2E5FA3"/>
+<text x="419.6" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 419.6 262)">2024-01</text>
+<circle cx="448.7" cy="206.1" r="2.5" fill="#2E5FA3"/>
+<circle cx="477.8" cy="207.1" r="2.5" fill="#2E5FA3"/>
+<text x="477.8" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 477.8 262)">2024-03</text>
+<circle cx="507.0" cy="203.2" r="2.5" fill="#2E5FA3"/>
+<circle cx="536.1" cy="205.1" r="2.5" fill="#2E5FA3"/>
+<text x="536.1" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 536.1 262)">2024-05</text>
+<circle cx="565.2" cy="100.4" r="2.5" fill="#2E5FA3"/>
+<circle cx="594.3" cy="102.0" r="2.5" fill="#2E5FA3"/>
+<text x="594.3" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 594.3 262)">2024-07</text>
+<circle cx="623.5" cy="101.0" r="2.5" fill="#2E5FA3"/>
+<circle cx="652.6" cy="207.5" r="2.5" fill="#2E5FA3"/>
+<text x="652.6" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 652.6 262)">2024-09</text>
+<circle cx="681.7" cy="207.3" r="2.5" fill="#2E5FA3"/>
+<circle cx="710.9" cy="196.6" r="2.5" fill="#2E5FA3"/>
+<text x="710.9" y="262" text-anchor="middle" font-size="9" fill="#333" transform="rotate(60 710.9 262)">2024-11</text>
+<circle cx="740.0" cy="90.9" r="2.5" fill="#2E5FA3"/>
+</svg>
